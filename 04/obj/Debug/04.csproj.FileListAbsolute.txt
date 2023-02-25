@@ -1,0 +1,6 @@
+D:\DomashnaRabota\Methods\04\bin\Debug\04.exe.config
+D:\DomashnaRabota\Methods\04\bin\Debug\04.exe
+D:\DomashnaRabota\Methods\04\bin\Debug\04.pdb
+D:\DomashnaRabota\Methods\04\obj\Debug\04.csproj.CoreCompileInputs.cache
+D:\DomashnaRabota\Methods\04\obj\Debug\04.exe
+D:\DomashnaRabota\Methods\04\obj\Debug\04.pdb

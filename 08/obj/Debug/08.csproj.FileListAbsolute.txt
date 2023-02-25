@@ -1,0 +1,6 @@
+D:\DomashnaRabota\Methods\08\bin\Debug\08.exe.config
+D:\DomashnaRabota\Methods\08\bin\Debug\08.exe
+D:\DomashnaRabota\Methods\08\bin\Debug\08.pdb
+D:\DomashnaRabota\Methods\08\obj\Debug\08.csproj.CoreCompileInputs.cache
+D:\DomashnaRabota\Methods\08\obj\Debug\08.exe
+D:\DomashnaRabota\Methods\08\obj\Debug\08.pdb
